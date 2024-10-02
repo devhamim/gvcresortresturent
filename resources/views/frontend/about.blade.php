@@ -31,8 +31,7 @@
                     <img class="rotate-infinite-2" src="{{ asset('frontend') }}/img/about/about-4/shape.png" alt="">
                     <img class="shape" src="{{ asset('frontend') }}/img/about/about-4/brand.png" alt="">
                 </div>
-                <p>Welcome to Housey city hotel Times
-                    Square, a luxury apartments on
+                <p>Welcome to our Resort And Restaurant on
                     exciting coastline.</p>
             </div>
             </div>
@@ -53,7 +52,7 @@
         <div class="col-lg-10">
             <div class="tp-about-top-content mb-70">
             <h6 class="tp-about-top-subtitle"><span></span> About us</h6>
-            <h2 class="tp-about-top-title tp-about-top-title-2">Symphony of luxury <span>awaits<br> you </span>at our hotel.!</h2>
+            <h2 class="tp-about-top-title tp-about-top-title-2">Australia's Ultimate Luxury Resort and Dining Retreat!</h2>
             </div>
         </div>
         <div class="col-lg-2 d-none d-lg-block">
@@ -84,7 +83,7 @@
         </div>
         <div class="col-lg-6">
             <div class="tp-about-4-content mb-40">
-            <p class="mb-90">Hotels aren’t always hip. Hosts aren’t always reliable. So we’re changing the game—with spaces that inspire and delight, that fulfill needs without sacrificing style, all while delivering seamless, personalized experiences. Check in, request<br> fresh towels,</p>
+            <p class="mb-90">Discover Australia’s finest luxury resort and exclusive dining retreat, where refined elegance meets natural splendor. Catering to discerning guests, from global influencers to celebrities, this resort is a sanctuary of sophistication. Every experience, from lavish accommodations to the finest gourmet dining, is crafted with attention to detail. More than just a stay, it's a destination where the essence of luxury, prestige, and the beauty of Australia unite, offering an unforgettable escape.</p>
             <div class="tp-about-4-client-wrap">
                 <div class="tp-about-4-client-img mb-10">
                     <img src="{{ asset('frontend') }}/img/about/about-4/user.png" alt="user">
@@ -227,24 +226,7 @@
         </div>
     </div>
 </div>
-<div class="tp-video-great-work">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-            <div class="tp-video-great-content text-center">
-                <p>Let's make something great work together.
-                    <a href="#">Got a project in mind?
-                        <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M1 11L11 1" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                        <path d="M1 1H11V11" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                        </svg>
-                    </a>
-                </p>
-            </div>
-            </div>
-        </div>
-    </div>
-</div>
+
 </div>
 <!-- tp-video-area-end -->
 
@@ -262,29 +244,24 @@
             <div class="tp-about-hotel-content">
                 <div class="tp-about-title-box mb-35">
                     <span class="tp-about-hotel-subtitle">About Our Hotel</span>
-                    <h2 class="tp-about-hotel-title mb-15">See Life From A<br> Different Perspective.</h2>
-                    <p>In the morning, you can take a walk in the<br>
-                        fresh air-filled forest or stroll through<br>
-                        the herb garden.</p>
+                    <h2 class="tp-about-hotel-title mb-15">Experience Luxury from a New Perspective</h2>
+                    <p>Immerse yourself in unparalleled elegance at Australia’s most exclusive resort. With breathtaking views, world-class amenities, and exquisite dining, every moment offers a fresh take on luxury and relaxation. Discover a place where sophistication meets serenity, creating an unforgettable escape.</p>
                 </div>
                 <div class="tp-about-hotel-feature mb-35">
                     <ul>
                         <li>
                         <i class="fa-sharp fa-solid fa-check"></i>
-                        <span>Dall-E, GPT or Ada</span>
+                        <span>Breathtaking Views</span>
                         </li>
                         <li>
                         <i class="fa-sharp fa-solid fa-check"></i>
-                        <span>Unlimited Generation</span>
+                        <span>World-Class Accommodations</span>
                         </li>
                         <li>
                         <i class="fa-sharp fa-solid fa-check"></i>
-                        <span>Multilingual</span>
+                        <span>Exquisite Dining</span>
                         </li>
                     </ul>
-                </div>
-                <div class="tp-about-hotel-btn">
-                    <a class="tp-btn-4" href="#">Why We're Different</a>
                 </div>
             </div>
             </div>

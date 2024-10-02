@@ -28,194 +28,181 @@
         <div class="col-lg-12">
             <div class="tp-pricing-wrapper tp-pricing-wrapper-2  mb-15 wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
             <div class="row align-items-center">
-                <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6 pb-20">
+                <div class="col-xl-9 col-lg-10 col-md-8 col-sm-6 pb-20">
                     <div class="tp-pricing-title p-relative">
-                        <h5>Classic Room</h5>
-                        <span></span>
+                        <h3>Lemon Ricotta Pancakes with Maple Syrup</h3>
+                        <p>Gourmet pancakes made with ricotta cheese and a hint of lemon, served with pure organic maple syrup and seasonal berries.</p>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 pb-20">
                     <div class="tp-pricing-price">
-                        <h3 class="tp-pricing-price-title">$276.00</h3>
-                        <span>/ Per Night.</span>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 pb-20">
-                    <div class="tp-pricing-service-list">
-                        <ul>
-                        <li>All-time Free Wi-Fi</li>
-                        <li>2 People Breakfast</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 pb-20">
-                    <div class="tp-pricing-service-list">
-                        <ul>
-                        <li>1 Bed Room</li>
-                        <li>2 People in Room</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 pb-20">
-                    <div class="tp-pricing-btn-wrap text-right">
-                        <a class="tp-btn-square" href="contact.html">Book Rooms
-                        <span class="ml-5">
-                            <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M1 9L9 1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                <path d="M1 1H9V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                            </svg>
-                        </span>
-                        </a>
+                        <h3 class="tp-pricing-price-title">$25.00</h3>
                     </div>
                 </div>
             </div>
             </div>
         </div>
         <div class="col-lg-12">
-            <div class="tp-pricing-wrapper tp-pricing-wrapper-2 mb-15 wow fadeInUp" data-wow-delay=".4s" data-wow-duration="1s">
+            <div class="tp-pricing-wrapper tp-pricing-wrapper-2  mb-15 wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
             <div class="row align-items-center">
-                <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6 pb-20">
+                <div class="col-xl-9 col-lg-10 col-md-8 col-sm-6 pb-20">
                     <div class="tp-pricing-title p-relative">
-                        <h5>Modern Room</h5>
-                        <span></span>
+                        <h3>Peameal Bacon and Poached Eggs on Brioche</h3>
+                        <p>Premium peameal bacon, perfectly poached organic eggs, served on toasted brioche with hollandaise sauce.</p>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 pb-20">
                     <div class="tp-pricing-price">
-                        <h3 class="tp-pricing-price-title">$344.00</h3>
-                        <span>/ Per Night.</span>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 pb-20">
-                    <div class="tp-pricing-service-list">
-                        <ul>
-                        <li>All-time Free Wi-Fi</li>
-                        <li>2 People Breakfast</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 pb-20">
-                    <div class="tp-pricing-service-list">
-                        <ul>
-                        <li>1 Bed Room</li>
-                        <li>2 People in Room</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 pb-20">
-                    <div class="tp-pricing-btn-wrap text-right">
-                        <a class="tp-btn-square tp-btn-square-falured" href="contact.html">Book Rooms
-                        <span class="ml-5">
-                            <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M1 9L9 1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                <path d="M1 1H9V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                            </svg>
-                        </span>
-                        </a>
+                        <h3 class="tp-pricing-price-title">$32.00</h3>
                     </div>
                 </div>
             </div>
             </div>
         </div>
         <div class="col-lg-12">
-            <div class="tp-pricing-wrapper tp-pricing-wrapper-2 mb-15 wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
+            <div class="tp-pricing-wrapper tp-pricing-wrapper-2  mb-15 wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
             <div class="row align-items-center">
-                <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6 pb-20">
+                <div class="col-xl-9 col-lg-10 col-md-8 col-sm-6 pb-20">
                     <div class="tp-pricing-title p-relative">
-                        <h5>Premium plan</h5>
-                        <span></span>
+                        <h3>Truffle Scrambled Eggs</h3>
+                        <p>Free-range scrambled eggs infused with black truffle, served with a side of grilled sourdough and sautéed spinach.</p>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 pb-20">
                     <div class="tp-pricing-price">
-                        <h3 class="tp-pricing-price-title">$426.00</h3>
-                        <span>/ Per Night.</span>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 pb-20">
-                    <div class="tp-pricing-service-list">
-                        <ul>
-                        <li>All-time Free Wi-Fi</li>
-                        <li>2 People Breakfast</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 pb-20">
-                    <div class="tp-pricing-service-list">
-                        <ul>
-                        <li>1 Bed Room</li>
-                        <li>2 People in Room</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 pb-20">
-                    <div class="tp-pricing-btn-wrap text-right">
-                        <a class="tp-btn-square" href="contact.html">Book Rooms
-                        <span class="ml-5">
-                            <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M1 9L9 1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                <path d="M1 1H9V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                            </svg>
-                        </span>
-                        </a>
+                        <h3 class="tp-pricing-price-title">$28.00</h3>
                     </div>
                 </div>
             </div>
             </div>
         </div>
         <div class="col-lg-12">
-            <div class="tp-pricing-wrapper tp-pricing-wrapper-2 wow fadeInUp" data-wow-delay=".6s" data-wow-duration="1s">
+            <div class="tp-pricing-wrapper tp-pricing-wrapper-2  mb-15 wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
             <div class="row align-items-center">
-                <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6 pb-20">
+                <div class="col-xl-9 col-lg-10 col-md-8 col-sm-6 pb-20">
                     <div class="tp-pricing-title p-relative">
-                        <h5>Luxury Room</h5>
-                        <span></span>
+                        <h3>Artisan Toast with Whipped Butter and Jam Trio</h3>
+                        <p>A selection of house-made sourdough and multigrain toast with a trio of artisan jams and whipped cultured butter.</p>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 pb-20">
                     <div class="tp-pricing-price">
-                        <h3 class="tp-pricing-price-title">$426.00</h3>
-                        <span>/ Per Night.</span>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 pb-20">
-                    <div class="tp-pricing-service-list">
-                        <ul>
-                        <li>All-time Free Wi-Fi</li>
-                        <li>2 People Breakfast</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 pb-20">
-                    <div class="tp-pricing-service-list">
-                        <ul>
-                        <li>1 Bed Room</li>
-                        <li>2 People in Room</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 pb-20">
-                    <div class="tp-pricing-btn-wrap text-right">
-                        <a class="tp-btn-square" href="contact.html">Book Rooms
-                        <span class="ml-5">
-                            <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M1 9L9 1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                <path d="M1 1H9V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                            </svg>
-                        </span>
-                        </a>
+                        <h3 class="tp-pricing-price-title">$15.00</h3>
                     </div>
                 </div>
             </div>
             </div>
         </div>
+        <div class="col-lg-12">
+            <div class="tp-pricing-wrapper tp-pricing-wrapper-2  mb-15 wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
+            <div class="row align-items-center">
+                <div class="col-xl-9 col-lg-10 col-md-8 col-sm-6 pb-20">
+                    <div class="tp-pricing-title p-relative">
+                        <h3>Crispy Herb Potatoes with Aioli</h3>
+                        <p>Gourmet home fries tossed with fresh herbs, served with a truffle aioli dipping sauce.</p>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 pb-20">
+                    <div class="tp-pricing-price">
+                        <h3 class="tp-pricing-price-title">$18.00</h3>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+        <div class="col-lg-12">
+            <div class="tp-pricing-wrapper tp-pricing-wrapper-2  mb-15 wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
+            <div class="row align-items-center">
+                <div class="col-xl-9 col-lg-10 col-md-8 col-sm-6 pb-20">
+                    <div class="tp-pricing-title p-relative">
+                        <h3>Organic Sausage Links with Mustard Glaze</h3>
+                        <p>Handcrafted organic sausages drizzled with a tangy mustard glaze.</p>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 pb-20">
+                    <div class="tp-pricing-price">
+                        <h3 class="tp-pricing-price-title">$22.00</h3>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+        <div class="col-lg-12">
+            <div class="tp-pricing-wrapper tp-pricing-wrapper-2  mb-15 wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
+            <div class="row align-items-center">
+                <div class="col-xl-9 col-lg-10 col-md-8 col-sm-6 pb-20">
+                    <div class="tp-pricing-title p-relative">
+                        <h3>Seasonal Fruit Platter with Mint and Honey</h3>
+                        <p>A beautifully arranged platter of seasonal fresh fruits, lightly dressed with mint and organic honey.</p>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 pb-20">
+                    <div class="tp-pricing-price">
+                        <h3 class="tp-pricing-price-title">$20.00</h3>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+        <div class="col-lg-12">
+            <div class="tp-pricing-wrapper tp-pricing-wrapper-2  mb-15 wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
+            <div class="row align-items-center">
+                <div class="col-xl-9 col-lg-10 col-md-8 col-sm-6 pb-20">
+                    <div class="tp-pricing-title p-relative">
+                        <h3>Specialty Coffee or Tea Selection</h3>
+                        <p>A variety of premium hand-brewed coffees or loose-leaf teas.</p>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 pb-20">
+                    <div class="tp-pricing-price">
+                        <h3 class="tp-pricing-price-title">$10.00</h3>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+        <div class="col-lg-12">
+            <div class="tp-pricing-wrapper tp-pricing-wrapper-2  mb-15 wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
+            <div class="row align-items-center">
+                <div class="col-xl-9 col-lg-10 col-md-8 col-sm-6 pb-20">
+                    <div class="tp-pricing-title p-relative">
+                        <h3>Freshly Squeezed Juice</h3>
+                        <p>Pressed-to-order juices from organic fruits and vegetables.</p>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 pb-20">
+                    <div class="tp-pricing-price">
+                        <h3 class="tp-pricing-price-title">$12.00</h3>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+        <div class="col-lg-12">
+            <div class="tp-pricing-wrapper tp-pricing-wrapper-2  mb-15 wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
+            <div class="row align-items-center">
+                <div class="col-xl-9 col-lg-10 col-md-8 col-sm-6 pb-20">
+                    <div class="tp-pricing-title p-relative">
+                        <h3>Greek Yogurt with Local Honey and Granola</h3>
+                        <p>Rich Greek yogurt, drizzled with local honey and topped with house-made granola.</p>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 pb-20">
+                    <div class="tp-pricing-price">
+                        <h3 class="tp-pricing-price-title">$19.00</h3>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+
     </div>
 </div>
 </div>
 <!-- tp-pricing-area-end -->
 
 <!-- tp-faq-area-start -->
-<div class="tp-faq-area tp-bg-gray-4 pt-110 pb-115">
+{{-- <div class="tp-faq-area tp-bg-gray-4 pt-110 pb-115">
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-lg-8">
@@ -285,7 +272,7 @@
         </div>
     </div>
 </div>
-</div>
+</div> --}}
 <!-- tp-faq-area-end -->
 
 @endsection

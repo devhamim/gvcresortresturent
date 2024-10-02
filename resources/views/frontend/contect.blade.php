@@ -31,8 +31,6 @@
             <div class="tp-contact-content mb-35 text-center">
                 <span class="tp-contact-subtitle mb-20">Contact Us</span>
                 <h2 class="tp-contact-title">Contact Our Team</h2>
-                <p class="tp-contact-dis">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non enim lacus.<br>
-                    Nullam congue blandit quam, sit amet</p>
                 <div class="tp-contact-list">
                     <ul>
                         <li>

@@ -273,9 +273,8 @@
         <div class="col-xl-5 col-lg-6 mb-30 wow fadeInLeft" data-wow-delay=".4s" data-wow-duration="1s">
             <div class="tp-adventures-title-wrap mb-55 mr-65">
             <h5 class="tp-section-title-two-pre mb-10">Get Connected</h5>
-            <h2 class="tp-section-title-two fs-40 lh-115 mb-20">Where Do <img src="{{ asset('frontend') }}/img/adventures/rainbox.png" alt="rainbox"><br>
-                You Want to Explore?</h2>
-            <p class="tp-adventures-para">A trusted travel guider based in London and working since 2003. I guided more than <b>3.2k+</b> tourists my whole lovely country.</p>
+            <h2 class="tp-section-title-two fs-40 lh-115 mb-20">Australia’s Premier Luxury Resort & Fine Dining Experience</h2>
+            <p class="tp-adventures-para">Welcome to Australia’s most prestigious luxury resort and world-class restaurant, where unparalleled elegance meets influence. This iconic destination, favored by leaders, celebrities, and tastemakers, offers the perfect blend of opulent accommodations and extraordinary culinary creations. Every moment is designed with timeless sophistication, from exquisite suites to masterfully crafted dining experiences. More than just a resort, it's where luxury, prestige, and Australia’s natural beauty come together in seamless harmony, delivering an experience like no other.</p>
             </div>
             <div class="row">
             <div class="col-sm-4 mb-25">
@@ -368,14 +367,6 @@
                         <path d="M50.7129 6.69289C51.0956 6.85143 51.5343 6.66973 51.6929 6.28706C51.8514 5.90439 51.6697 5.46565 51.2871 5.30711L50.7129 6.69289ZM1.30577 6.16118C8.98516 2.73243 29.7128 -2.00744 50.7129 6.69289L51.2871 5.30711C29.818 -3.58748 8.6527 1.23814 0.694228 4.7915L1.30577 6.16118Z" fill="#B7124D" />
                     </svg>
                 </span> off</h4>
-                <a class="tp-btn-square tp-btn-banner" href="offer.html">View Deals
-                    <span class="ml-5">
-                        <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M1 9L9 1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                        <path d="M1 1H9V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                        </svg>
-                    </span>
-                </a>
             </div>
             </div>
         </div>
@@ -389,14 +380,6 @@
                     <div class="tp-banner-content">
                         <h5 class="tp-banner-title-pre tp-banner-title-pre-2">Get Up To</h5>
                         <h2 class="tp-banner-title fs-40 mb-25">50% off</h2>
-                        <a class="tp-btn-square tp-btn-banner tp-btn-banner-white" href="offer.html">Learn More
-                        <span class="ml-5">
-                            <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M1 9L9 1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                <path d="M1 1H9V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                            </svg>
-                        </span>
-                        </a>
                     </div>
                 </div>
             </div>
@@ -408,14 +391,6 @@
                     <div class="tp-banner-content">
                         <h5 class="tp-banner-title-pre tp-banner-title-pre-2">Up to 35% off</h5>
                         <h2 class="tp-banner-title fs-40 mb-25">Big Deals</h2>
-                        <a class="tp-btn-square tp-btn-banner" href="offer.html">View Deals
-                        <span class="ml-5">
-                            <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M1 9L9 1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                <path d="M1 1H9V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                            </svg>
-                        </span>
-                        </a>
                     </div>
                 </div>
             </div>

@@ -11,7 +11,7 @@
           <div class="col-lg-9 mb-35">
              <div class="tp-hero-3-title-wrap">
                 <h5 class="tp-hero-3-title-pre wow img-custom-anim-right" data-wow-duration="1.5s" data-wow-delay="0.1s">Unique Historical Charm</h5>
-                <h2 class="tp-hero-3-title wow img-custom-anim-left" data-wow-duration="1.5s" data-wow-delay="0.1s">The Exclusive Hotel <br> <img src="{{ asset('frontend') }}/img/hero/home3/and.png" alt="and"> <span>Apartments!</span></h2>
+                <h2 class="tp-hero-3-title wow img-custom-anim-left" data-wow-duration="1.5s" data-wow-delay="0.1s">The Exclusive Hotel <br> <img src="{{ asset('frontend') }}/img/hero/home3/and.png" alt="and"> <span>Restaurant!</span></h2>
              </div>
           </div>
        </div>
@@ -151,12 +151,10 @@
           <div class="col-lg-6 pb-40">
              <div class="tp-about-3-content wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                 <h5 class="tp-section-three-title-pre">About Our Hotel</h5>
-                <h2 class="tp-section-three-title mb-15">See Life From A<br> Different Perspective.</h2>
-                <p class="tp-about-3-para mb-40">In the morning, you can take a walk in the<br>
-                   fresh air-filled forest or stroll through<br>
-                   the herb garden.</p>
+                <h2 class="tp-section-three-title mb-15">Discover Australia Most Exquisite Luxury Hotel And Resturant alone.</h2>
+                <p class="tp-about-3-para mb-40">Welcome to Australia's most luxurious hotel and restaurants, where elegance meets influence. Frequently visited by prominent politicians, celebrities, and cultural tastemakers, this iconic hotel and its world-renowned dining establishments represent the height of sophistication. Every detail here is meticulously curated with timeless grace—from lavish suites to culinary creations crafted with the utmost precision. It’s more than a destination—it’s where power, prestige, and luxury converge in perfect harmony, embodying the spirit of Australian excellence.</p>
                 <div class="tp-about-3-btn">
-                   <a class="tp-btn-4" href="about.html">Explore More</a>
+                   <a class="tp-btn-4" href="{{ route('about_us') }}">Explore More</a>
                 </div>
              </div>
           </div>
@@ -344,24 +342,6 @@
         </div>
         </div>
     </div>
-    <div class="tp-video-great-work">
-        <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <div class="tp-video-great-content text-center">
-                    <p>Let's make something great work together.
-                    <a href="#">Got a project in mind?
-                        <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M1 11L11 1" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                            <path d="M1 1H11V11" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                        </svg>
-                    </a>
-                    </p>
-                </div>
-            </div>
-        </div>
-        </div>
-    </div>
  </div>
  <!-- tp-video-area-end -->
 
@@ -411,22 +391,13 @@
                 </div>
              </div>
           </div>
-          <div class="col-lg-12">
-             <div class="tp-offer-discount pt-30 text-center">
-                <p>
-                   <span class="tp-offer-awesome mr-10">AWESOME</span>
-                   <span class="discount">Get 20% discount</span>
-                    on hotels booking with above websites.
-                </p>
-             </div>
-          </div>
        </div>
     </div>
  </div>
  <!-- tp-offer-area-end -->
 
  <!-- tp-faq-area-start -->
- <div class="tp-faq-area fix pt-140 pb-85">
+ {{-- <div class="tp-faq-area fix pt-140 pb-85">
     <div class="container">
        <div class="row">
           <div class="col-lg-12">
@@ -510,7 +481,7 @@
           </div>
        </div>
     </div>
- </div>
+ </div> --}}
  <!-- tp-faq-area-start -->
 
  <!-- service-area-start -->
