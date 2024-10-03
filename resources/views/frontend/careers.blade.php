@@ -25,7 +25,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <h2>Careers List</h2>
-                    <p>Full Moon Hotel and Restaurant takes real pride in welcoming fresh and new talent to our increasing dynamic workforce. In addition to Canada nationals, our team comprises of expatriates from various other nationalities. Your career can be pursued in the following departments.</p>
+                    <p>Bushland Bliss Hotel and Restaurant takes real pride in welcoming fresh and new talent to our increasing dynamic workforce. In addition to australia nationals, our team comprises of expatriates from various other nationalities. Your career can be pursued in the following departments.</p>
 
                     <p>Our passionate workforce offers our customers with quality service that is trusted, treasured and experienced repeatedly. For any inquiries related to job vacancies.</p>
                 </div>
