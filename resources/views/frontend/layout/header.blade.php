@@ -81,7 +81,9 @@
                             <li>
                                 <a href="{{route('room.finds')}}">Rooms</a>
                             </li>
-                            <li><a href="{{route('services')}}">Service</a></li>
+                            <li>
+                                <a href="{{route('services')}}">Service</a>
+                            </li>
                             <li><a href="{{route('restaurant')}}">Restaurant</a></li>
                             <li><a href="{{route('gallerys')}}">Gallery</a></li>
                             <li>
