@@ -1,6 +1,6 @@
 <footer>
     <div class="tp-footer-area tp-falured-bg-2 pt-120">
-       <div class="container mb-50">
+       <div class="container">
           <div class="row">
              <div class="col-xl-4 col-lg-5 col-md-6 col-sm-6 mb-60">
                 <div class="tp-footer-widget tp-footer-widget-3">
@@ -10,6 +10,11 @@
                     @endif
                    </div>
                    <div class="tp-footer-widget-content">
+                    <div class="tp-footer-form mb-20">
+                        @if ( $setting->first()->about != null)
+                            <p class="text-white">{{ $setting->first()->about }}</p>
+                        @endif
+                       </div>
                       <div class="tp-footer-location tp-footer-location-3 mb-20">
                         @if ($setting->first()->address != null)
                             <a href="{{ $setting->first()->address }}">{{ $setting->first()->address }}</a>
@@ -58,19 +63,13 @@
                 </div>
              </div>
              <div class="col-xl-4 col-lg-6 col-md-6 col-sm-8 mb-60">
-                <div class="tp-footer-widget tp-footer-widget-3 pl-65">
-                   <div class="tp-footer-form mb-20">
-                    @if ( $setting->first()->about != null)
-                        <p class="text-white">{{ $setting->first()->about }}</p>
-                    @endif
-                   </div>
-                   <div class="tp-footer-social">
-                        <a href="{{ $setting->first()->twitter }}" class="fa-brands fa-twitter"></a>
-						<a href="{{ $setting->first()->facebook }}" class="fa-brands fa-facebook-f"></a>
-                        <a href="{{ $setting->first()->linkedin }}" class="fa-brands fa-linkedin-in"></a>
-                        <a href="{{ $setting->first()->youtube }}" class="fa-brands fa-youtube"></a>
-                   </div>
-                </div>
+                <div class="tp-footer-widget-content tp-footer-widget-content-3">
+                    <ul>
+                        @foreach($clients as $key => $client)
+                            <li><img width="100px" src="{{ asset('uploads/client') }}/{{ $client->image }}" alt=""></li>
+                        @endforeach
+                    </ul>
+                 </div>
              </div>
           </div>
        </div>

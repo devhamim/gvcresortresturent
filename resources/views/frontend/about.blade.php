@@ -21,7 +21,6 @@
         <div class="row align-items-end">
             <div class="col-lg-8">
             <div class="tp-about-top-content mb-50">
-                <h6 class="tp-about-top-subtitle"><span></span> About us</h6>
                 <h2 class="tp-about-top-title">Building your success through our unique <span>story.</span></h2>
             </div>
             </div>
@@ -31,9 +30,26 @@
                     <img class="rotate-infinite-2" src="{{ asset('frontend') }}/img/about/about-4/shape.png" alt="">
                     <img class="shape" src="{{ asset('frontend') }}/img/about/about-4/brand.png" alt="">
                 </div>
-                <p>Welcome to our Resort And Restaurant on
-                    exciting coastline.</p>
+
             </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <p>At our Australian resort and restaurant, the journey to your success begins with our unique story—a tale woven from the rich tapestry of our natural surroundings, cultural heritage, and unwavering commitment to excellence. We believe that every guest who steps through our doors deserves not just a luxurious escape, but a transformative experience that enhances their personal or professional journey.</p>
+                <p>Our resort is nestled in one of Australia’s most breathtaking regions, where pristine nature meets contemporary luxury. We have drawn inspiration from the rugged beauty of the landscape, incorporating sustainable practices that honor the environment. Every element of our resort, from the architecture to the gardens, reflects the deep respect we hold for the land, ensuring that your stay not only nurtures your soul but leaves a positive impact on the planet.</p>
+                <p>By embracing eco-friendly initiatives, such as energy-efficient systems, water conservation, and the use of local, ethically sourced materials, we have created a space where luxury and sustainability coexist. When you stay with us, you’re not just enjoying unparalleled comfort; you’re part of a greater mission to preserve the natural beauty of our surroundings for future generations.</p>
+                <p>Our restaurant is a culinary journey in itself. We pride ourselves on offering a dining experience that celebrates Australia’s diverse and rich produce. We work closely with local farmers, fishermen, and artisans to bring the freshest, most flavorful ingredients to your table. Each dish is a reflection of the region’s abundance, paired with a touch of modern innovation from our expert chefs.</p>
+                <p>Our menu is constantly evolving with the seasons, ensuring that you experience the true essence of Australia’s diverse flavors. From paddock to plate, we prioritize sustainable sourcing practices that support our community and protect the environment. Whether you're savoring a delicate seafood dish from our coastline or indulging in farm-fresh produce, every bite tells the story of the people and places behind it.</p>
+                <p>We understand that success means something different for everyone. Whether you’re here for a corporate retreat, a romantic getaway, or a family holiday, our resort is designed to cater to your every need. Our team is dedicated to personalizing your stay, ensuring that every aspect of your visit aligns with your goals and desires.</p>
+                <p>For those seeking relaxation, our resort offers serene spa experiences and tranquil nature walks, where you can reconnect with yourself and the world around you. If adventure is what you crave, we provide guided tours, outdoor activities, and unique experiences that let you explore the region’s natural wonders, from stunning beaches to lush rainforests.</p>
+                <p>Corporate guests can take advantage of our state-of-the-art facilities, perfect for hosting meetings, conferences, or team-building events in a peaceful and inspiring environment. We understand that creativity and innovation often thrive in places where nature and modern amenities are seamlessly integrated, and we aim to provide that perfect balance.</p>
+                <p>We take great pride in the relationships we’ve cultivated with our guests, staff, and the wider community. Our resort is not just a place to stay but a hub of genuine hospitality where you feel like part of a larger family. Our story is built on the belief that true success comes from collaboration, care, and a deep sense of responsibility to each other and our environment.</p>
+                <p>Our staff embodies this philosophy, offering warm, personalized service that makes every guest feel valued and at home. From the moment you arrive until your departure, we aim to exceed your expectations, creating a lasting connection that continues long after your stay.</p>
+                <p>Success isn’t just measured by what we achieve, but by the impact we make on others. At our resort, we strive to create an environment where your personal and professional success can flourish. Whether you leave with a sense of renewal after a rejuvenating vacation or with new business connections forged during a corporate event, our goal is to support your growth.</p>
+                <p>Our unique story, grounded in a love for the land, a passion for exceptional service, and a commitment to sustainability, is what sets us apart. By staying with us, you become part of that story—a story of progress, connection, and shared success. We invite you to discover how your journey can be enriched by ours, as we work together to create memories, experiences, and milestones that will stay with you long after you leave.
+
+                </p>
             </div>
         </div>
     </div>
@@ -51,7 +67,6 @@
     <div class="row align-items-center">
         <div class="col-lg-10">
             <div class="tp-about-top-content mb-70">
-            <h6 class="tp-about-top-subtitle"><span></span> About us</h6>
             <h2 class="tp-about-top-title tp-about-top-title-2">Australia's Ultimate Luxury Resort and Dining Retreat!</h2>
             </div>
         </div>
@@ -84,57 +99,12 @@
         <div class="col-lg-6">
             <div class="tp-about-4-content mb-40">
             <p class="mb-90">Discover Australia’s finest luxury resort and exclusive dining retreat, where refined elegance meets natural splendor. Catering to discerning guests, from global influencers to celebrities, this resort is a sanctuary of sophistication. Every experience, from lavish accommodations to the finest gourmet dining, is crafted with attention to detail. More than just a stay, it's a destination where the essence of luxury, prestige, and the beauty of Australia unite, offering an unforgettable escape.</p>
-            <div class="tp-about-4-client-wrap">
-                <div class="tp-about-4-client-img mb-10">
-                    <img src="{{ asset('frontend') }}/img/about/about-4/user.png" alt="user">
-                </div>
-                <div class="tp-about-4-client-review mb-10">
-                    <p><span>3256+</span><br> Client-Reviews</p>
-                </div>
-            </div>
             </div>
         </div>
     </div>
 </div>
 </div>
 <!-- tp-about-4-end -->
-
-<!-- tp-counter-area-start -->
-<div class="tp-counter-area pb-120">
-<div class="container">
-    <div class="row gx-0">
-        <div class="col-lg-3 col-md-6 col-sm-6">
-            <div class="tp-counter-item">
-            <h3 class="tp-counter-number"><span data-purecounter-duration="1"
-                data-purecounter-end="45" class="purecounter">0</span>+</h3>
-            <span class="tp-counter-title">Realized Projects</span>
-            </div>
-        </div>
-        <div class="col-lg-3 col-md-6 col-sm-6">
-            <div class="tp-counter-item">
-            <h3 class="tp-counter-number"><span data-purecounter-duration="1"
-                data-purecounter-end="16" class="purecounter">0</span>+</h3>
-            <span class="tp-counter-title">Years experiences</span>
-            </div>
-        </div>
-        <div class="col-lg-3 col-md-6 col-sm-6">
-            <div class="tp-counter-item">
-            <h3 class="tp-counter-number"><span data-purecounter-duration="1"
-                data-purecounter-end="96" class="purecounter">0</span>+</h3>
-            <span class="tp-counter-title">Happy customers</span>
-            </div>
-        </div>
-        <div class="col-lg-3 col-md-6 col-sm-6">
-            <div class="tp-counter-item">
-            <h3 class="tp-counter-number"><span data-purecounter-duration="1"
-                data-purecounter-end="14" class="purecounter">0</span>+</h3>
-            <span class="tp-counter-title">trusted partners</span>
-            </div>
-        </div>
-    </div>
-</div>
-</div>
-<!-- tp-counter-area-end -->
 
 <!-- tp-text-slider-area-start -->
 <div class="tp-text-slider tp-falured-bg tp-text-spacing">
@@ -243,7 +213,6 @@
             <div class="col-lg-6">
             <div class="tp-about-hotel-content">
                 <div class="tp-about-title-box mb-35">
-                    <span class="tp-about-hotel-subtitle">About Our Hotel</span>
                     <h2 class="tp-about-hotel-title mb-15">Experience Luxury from a New Perspective</h2>
                     <p>Immerse yourself in unparalleled elegance at Australia’s most exclusive resort. With breathtaking views, world-class amenities, and exquisite dining, every moment offers a fresh take on luxury and relaxation. Discover a place where sophistication meets serenity, creating an unforgettable escape.</p>
                 </div>
@@ -270,59 +239,5 @@
 </div>
 </div>
 <!-- tp-about-hotel-area-end -->
-
-<!-- tp-brand-area-start -->
-<div class="tp-brand-area tp-brand-border-2">
-<div class="swiper-container tp-brand-active" >
-    <div class="swiper-wrapper slide-transtion">
-        <div class="swiper-slide">
-            <div class="tp-brand-item">
-            <a href="#"><img src="{{ asset('frontend') }}/img/brands/01.png" alt="brands"></a>
-            </div>
-        </div>
-        <div class="swiper-slide">
-            <div class="tp-brand-item">
-            <a href="#"><img src="{{ asset('frontend') }}/img/brands/02.png" alt="brands"></a>
-            </div>
-        </div>
-        <div class="swiper-slide">
-            <div class="tp-brand-item">
-            <a href="#"><img src="{{ asset('frontend') }}/img/brands/03.png" alt="brands"></a>
-            </div>
-        </div>
-        <div class="swiper-slide">
-            <div class="tp-brand-item">
-            <a href="#"><img src="{{ asset('frontend') }}/img/brands/04.png" alt="brands"></a>
-            </div>
-        </div>
-        <div class="swiper-slide">
-            <div class="tp-brand-item">
-            <a href="#"><img src="{{ asset('frontend') }}/img/brands/05.png" alt="brands"></a>
-            </div>
-        </div>
-        <div class="swiper-slide">
-            <div class="tp-brand-item">
-            <a href="#"><img src="{{ asset('frontend') }}/img/brands/02.png" alt="brands"></a>
-            </div>
-        </div>
-        <div class="swiper-slide">
-            <div class="tp-brand-item">
-            <a href="#"><img src="{{ asset('frontend') }}/img/brands/03.png" alt="brands"></a>
-            </div>
-        </div>
-        <div class="swiper-slide">
-            <div class="tp-brand-item">
-            <a href="#"><img src="{{ asset('frontend') }}/img/brands/04.png" alt="brands"></a>
-            </div>
-        </div>
-        <div class="swiper-slide">
-            <div class="tp-brand-item">
-            <a href="#"><img src="{{ asset('frontend') }}/img/brands/05.png" alt="brands"></a>
-            </div>
-        </div>
-    </div>
-</div>
-</div>
-<!-- tp-brand-area-end -->
 
 @endsection
