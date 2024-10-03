@@ -2,7 +2,7 @@
 
 @section('content')
 <!-- tp-breadcrumb-area-start -->
-<div class="tp-breadcrumb-area tp-breadcrumb-spacing bg-position" data-background="{{ asset('frontend') }}/img/breadcrumb/01.jpg">
+<div class="tp-breadcrumb-area tp-breadcrumb-spacing bg-position" data-background="{{ asset('frontend') }}/img/breadcrumb/13.jpg">
     <div class="container p-relative">
         <div class="row">
             <div class="col-lg-12">

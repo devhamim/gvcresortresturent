@@ -1,7 +1,7 @@
 @extends('frontend.layout.app')
 @section('content')
 <!-- tp-breadcrumb-area-start -->
-<div class="tp-breadcrumb-area tp-breadcrumb-spacing bg-position" data-background="{{ asset('frontend') }}/img/breadcrumb/01.jpg">
+<div class="tp-breadcrumb-area tp-breadcrumb-spacing bg-position" data-background="{{ asset('frontend') }}/img/breadcrumb/03.jpg">
     <div class="container p-relative">
         <div class="row">
             <div class="col-lg-12">
@@ -54,7 +54,7 @@
                         <span>4.8</span>
                     </div>
                     <div class="tp-destinations-content p-absolute">
-                        <h3 class="tp-destinations-title"><a href="destination-details.html">Nevada</a></h3>
+                        <h3 class="tp-destinations-title"><a>Bar</a></h3>
                         <div class="tp-destinations-time">
                         <span>10 Tours</span>
                         <span class="dvdr">|</span>
@@ -77,7 +77,7 @@
                         <span>4.8</span>
                     </div>
                     <div class="tp-destinations-content p-absolute">
-                        <h3 class="tp-destinations-title"><a href="destination-details.html">Cristales</a></h3>
+                        <h3 class="tp-destinations-title"><a>Swimming pool</a></h3>
                         <div class="tp-destinations-time">
                         <span>10 Tours</span>
                         <span class="dvdr">|</span>
@@ -100,7 +100,7 @@
                         <span>4.8</span>
                     </div>
                     <div class="tp-destinations-content p-absolute">
-                        <h3 class="tp-destinations-title"><a href="destination-details.html">Dubai</a></h3>
+                        <h3 class="tp-destinations-title"><a>Room</a></h3>
                         <div class="tp-destinations-time">
                         <span>10 Tours</span>
                         <span class="dvdr">|</span>
@@ -123,7 +123,7 @@
                         <span>4.8</span>
                     </div>
                     <div class="tp-destinations-content p-absolute">
-                        <h3 class="tp-destinations-title"><a href="destination-details.html">Poland</a></h3>
+                        <h3 class="tp-destinations-title"><a>Hall</a></h3>
                         <div class="tp-destinations-time">
                         <span>10 Tours</span>
                         <span class="dvdr">|</span>
@@ -146,7 +146,7 @@
                         <span>4.8</span>
                     </div>
                     <div class="tp-destinations-content p-absolute">
-                        <h3 class="tp-destinations-title"><a href="destination-details.html">London</a></h3>
+                        <h3 class="tp-destinations-title"><a>Gym</a></h3>
                         <div class="tp-destinations-time">
                         <span>10 Tours</span>
                         <span class="dvdr">|</span>
@@ -169,7 +169,7 @@
                         <span>4.8</span>
                     </div>
                     <div class="tp-destinations-content p-absolute">
-                        <h3 class="tp-destinations-title"><a href="destination-details.html">Cristales</a></h3>
+                        <h3 class="tp-destinations-title"><a>Restaurant</a></h3>
                         <div class="tp-destinations-time">
                         <span>10 Tours</span>
                         <span class="dvdr">|</span>
@@ -192,7 +192,7 @@
                         <span>4.8</span>
                     </div>
                     <div class="tp-destinations-content p-absolute">
-                        <h3 class="tp-destinations-title"><a href="destination-details.html">Colombia</a></h3>
+                        <h3 class="tp-destinations-title"><a>Meeting Room</a></h3>
                         <div class="tp-destinations-time">
                         <span>10 Tours</span>
                         <span class="dvdr">|</span>
@@ -215,7 +215,7 @@
                         <span>4.8</span>
                     </div>
                     <div class="tp-destinations-content p-absolute">
-                        <h3 class="tp-destinations-title"><a href="destination-details.html">Beach</a></h3>
+                        <h3 class="tp-destinations-title"><a>Room</a></h3>
                         <div class="tp-destinations-time">
                         <span>10 Tours</span>
                         <span class="dvdr">|</span>
@@ -361,8 +361,8 @@
             </div>
             <div class="tp-banner-content">
                 <h5 class="tp-banner-title-pre">Time to Explore</h5>
-                <h2 class="tp-banner-title mb-25">The Best Travel</h2>
-                <h4 class="tp-banner-offer mb-45">Get up to <span class="p-relative">50%
+                <h2 class="tp-banner-title mb-25 text-white">The Best Travel</h2>
+                <h4 class="tp-banner-offer mb-45 text-white">Get up to <span class="p-relative">50%
                     <svg width="52" height="7" viewBox="0 0 52 7" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M50.7129 6.69289C51.0956 6.85143 51.5343 6.66973 51.6929 6.28706C51.8514 5.90439 51.6697 5.46565 51.2871 5.30711L50.7129 6.69289ZM1.30577 6.16118C8.98516 2.73243 29.7128 -2.00744 50.7129 6.69289L51.2871 5.30711C29.818 -3.58748 8.6527 1.23814 0.694228 4.7915L1.30577 6.16118Z" fill="#B7124D" />
                     </svg>
@@ -379,7 +379,7 @@
                     </div>
                     <div class="tp-banner-content">
                         <h5 class="tp-banner-title-pre tp-banner-title-pre-2">Get Up To</h5>
-                        <h2 class="tp-banner-title fs-40 mb-25">50% off</h2>
+                        <h2 class="tp-banner-title fs-40 mb-25 text-white">50% off</h2>
                     </div>
                 </div>
             </div>
@@ -390,7 +390,7 @@
                     </div>
                     <div class="tp-banner-content">
                         <h5 class="tp-banner-title-pre tp-banner-title-pre-2">Up to 35% off</h5>
-                        <h2 class="tp-banner-title fs-40 mb-25">Big Deals</h2>
+                        <h2 class="tp-banner-title fs-40 mb-25 text-white">Big Deals</h2>
                     </div>
                 </div>
             </div>
