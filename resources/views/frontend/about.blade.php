@@ -215,7 +215,7 @@
         <div class="col-lg-12">
             <div class="tp-video-three-wrap tp-video-three-spacing text-center">
             <div class="tp-video-main mb-45">
-                <a class="tp-video-three-play popup-video tp-pulse-border p-relative" href="https://www.youtube.com/watch?v=go7QYaQR494">
+                <a class="tp-video-three-play popup-video tp-pulse-border p-relative" href="{{ asset('uploads/1.mp4') }}">
                     <svg width="23" height="26" viewBox="0 0 23 26" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M23 13L0.5 25.9904V0.00961876L23 13Z" fill="#FAF5EF" />
                     </svg>

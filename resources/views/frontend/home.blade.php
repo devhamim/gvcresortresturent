@@ -3,15 +3,23 @@
 @section('content')
 <!-- tp-hero-area-start -->
 <div class="tp-hero-area tp-hero-3-spacing tp-hero-video-overly p-relative">
+
     <div class="tp-hero-video-wrap">
-       <div style="background-image: url({{ asset('frontend') }}/img/hero/home3/bg.jpg);" class="tp-hero-five-video youtube-bg" data-property="{videoURL:'hNN9Q3GuWEM',}"></div>
+        <video width="100%" autoplay muted loop>
+            <source src="{{ asset('uploads/1.mp4') }}" type="video/mp4">
+        </video>
+        {{-- <div style="background-image: url('/frontend/img/hero/home3/bg.jpg');" class="tp-hero-five-video youtube-bg"> --}}
+
+        {{-- </div> --}}
     </div>
     <div class="container p-relative">
        <div class="row">
           <div class="col-lg-9 mb-35">
              <div class="tp-hero-3-title-wrap">
                 <h5 class="tp-hero-3-title-pre wow img-custom-anim-right" data-wow-duration="1.5s" data-wow-delay="0.1s">Unique Historical Charm</h5>
-                <h2 class="tp-hero-3-title wow img-custom-anim-left" data-wow-duration="1.5s" data-wow-delay="0.1s">The Exclusive Hotel <br> <img src="{{ asset('frontend') }}/img/hero/home3/and.png" alt="and"> <span>Restaurant!</span></h2>
+                <h2 class="tp-hero-3-title wow img-custom-anim-left" data-wow-duration="1.5s" data-wow-delay="0.1s">The Exclusive Hotel <br>
+                    <img src="{{ asset('frontend') }}/img/hero/home3/and.png" alt="and">
+                    <span>Restaurant!</span></h2>
              </div>
           </div>
        </div>
@@ -331,7 +339,7 @@
         <div class="col-lg-12">
             <div class="tp-video-three-wrap tp-video-three-spacing text-center">
                 <div class="tp-video-main mb-45">
-                    <a class="tp-video-three-play popup-video tp-pulse-border p-relative" href="https://www.youtube.com/watch?v=go7QYaQR494">
+                    <a class="tp-video-three-play popup-video tp-pulse-border p-relative" href="{{ asset('uploads/1.mp4') }}">
                     <svg width="23" height="26" viewBox="0 0 23 26" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M23 13L0.5 25.9904V0.00961876L23 13Z" fill="#FAF5EF" />
                     </svg>
