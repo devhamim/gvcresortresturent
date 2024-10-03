@@ -64,7 +64,7 @@
     <div id="header-sticky" class="tp-header-three-area p-relative z-index-1 tp-header-3-border header-sticky-white tp-transparent">
        <div class="container container-1700">
           <div class="row align-items-center">
-             <div class="col-xxl-4 col-xl-5 col-lg-6 col-2">
+             <div class="col-xxl-6 col-xl-6 col-lg-6 col-2">
                 <div class="tp-header-3-menu-wrap d-flex align-items-center">
                    <div class="tp-header-3-menu-bar">
                       <button class="tp-offcanvas-open-btn">
@@ -81,17 +81,17 @@
                             <li>
                                 <a href="{{route('room.finds')}}">Rooms</a>
                             </li>
+                            <li><a href="{{route('services')}}">Service</a></li>
+                            <li><a href="{{route('restaurant')}}">Restaurant</a></li>
+                            <li><a href="{{route('gallerys')}}">Gallery</a></li>
                             <li>
-                               <a href="index.html">Pages <i class="fa-regular fa-angle-down"></i></a>
+                               <a href="{{ url('/') }}">Our Company<i class="fa-regular fa-angle-down"></i></a>
                                <div class="tp-mega-menu">
                                   <div class="tp-megamenu-small">
                                      <div class="row gx-6 row-cols-1 row-cols-lg-3">
                                         <div class="col">
                                            <div class="tp-megamenu-list">
                                               <ul>
-                                                 <li><a href="{{route('services')}}">Service</a></li>
-                                                 <li><a href="{{route('restaurant')}}">Restaurant</a></li>
-                                                 <li><a href="{{route('gallerys')}}">Gallery</a></li>
                                                  <li><a href="{{route('about_us')}}">About</a></li>
                                                  <li><a href="{{route('our.blog')}}">Blog</a></li>
                                                  <li><a href="{{route('contect')}}">Contact</a></li>
@@ -107,7 +107,7 @@
                    </div>
                 </div>
              </div>
-             <div class="col-xxl-4 col-xl-2 col-lg-2 col-10">
+             <div class="col-xxl-2 col-xl-2 col-lg-2 col-10">
                 <div class="tp-header-logo tp-header-logo-3 text-center">
                    <a class="p-relative" href="{{ url('/') }}">
                     @if ($setting->first()->logo != null)
@@ -117,7 +117,7 @@
                    </a>
                 </div>
              </div>
-             <div class="col-xxl-4 col-xl-5 col-lg-4">
+             <div class="col-xxl-4 col-xl-4 col-lg-4">
                 <div class="tp-header-3-right d-flex align-items-center justify-content-end">
                    <div class="tp-header-3-btn d-none d-lg-block ml-30">
                       <a class="tp-btn-4" href="{{route('room.finds')}}">
